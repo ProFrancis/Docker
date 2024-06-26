@@ -1,5 +1,5 @@
 # RUN
-## Instructions pour exécuter le projet Docker
+## Instructions for running the Docker project
 
 ```sh
 cd docker
